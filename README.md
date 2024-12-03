@@ -22,11 +22,11 @@
 6. Github Release 中会保留目前能够使用的**所有版本**，但强烈推荐使用**最新版**
 7. 注意事项第 3 条将从 2024.12.31 起正式严格执行
 
-## 用户协议
+## 用户协议(源)
 1. [隐私政策](https://thoughts.teambition.com/share/6264eda98adeb10041b92fda#title=Sheas_Cealer_隐私政策)
 2. [使用协议](https://thoughts.teambition.com/share/6264edd78adeb10041b92fdb#title=Sheas_Cealer_使用协议)
 
-## 下载地址
+## 下载地址（源）
 1. Github (首选): [https://github.com/SpaceTimee/Sheas-Cealer/releases](https://github.com/SpaceTimee/Sheas-Cealer/releases)
 2. 蓝奏云 (密码 3wnj) (大陆推荐): [https://spacetime.lanzouu.com/b017hp0lc](https://spacetime.lanzouu.com/b017hp0lc)
 
@@ -47,10 +47,10 @@
 * **kit: 为本项目提供全部的原理基础**
 * **NiceBowl: 为本项目提供详细的原理说明**
 
-## 开发者
+## 开发者（源）
 **Space Time**
 
-## 联系方式
+## 联系方式（源）
 1. **QQ 群 (主群): 716266896，338919498**
 2. TG 群 (分群): [PixCealerChat](https://t.me/PixCealerChat)
 3. **邮箱: Zeus6_6@163.com**
@@ -63,7 +63,7 @@
 5. [Console HostChecker](https://github.com/SpaceTimee/Console-HostChecker): Cealing Host 自动化检查脚本
 6. [Console HostGenerator](https://github.com/SpaceTimee/Console-HostGenerator): Cealing Host 自动化生成脚本
 
-## 许可证
+## 许可证（源）
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSpaceTimee%2FSheas-Cealer.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FSpaceTimee%2FSheas-Cealer?ref=badge_large)
 
 •ᴗ•
